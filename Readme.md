@@ -8,6 +8,18 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7DF1E&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+Learning+New+Things;Passionate+About+Tech" alt="Typing SVG">
+</p>
+
+<div align="center">
+  <img src="https://github.com/SarthakPaandey/SarthakPaandey/raw/main/assets/coding-gif.gif" alt="Coding GIF" height="250">
+</div>
+
+---
+
 ### 🎓 About Me
 
 I'm a passionate Computer Science student with a keen interest in **Web Development**, **App Development**, and a future exploration into **iOS Development**. Currently, I am pursuing a **BS+MS** at Scaler School Of Technology and a **Bachelor of Science in Computer Science** at BITS Pilani. I thrive on learning and building innovative projects, and I'm constantly evolving in the ever-changing tech landscape.
@@ -50,6 +62,7 @@ I'm a passionate Computer Science student with a keen interest in **Web Developm
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SarthakPaandey&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Sarthak's GitHub stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPaandey&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="200"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SarthakPaandey&theme=onedark" alt="Trophies">
 </div>
 
 ---
