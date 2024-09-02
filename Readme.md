@@ -22,7 +22,7 @@
 
 ### 🎓 About Me
 
-I'm a passionate Computer Science student with a keen interest in **Web Development**, **App Development**, and a future exploration into **iOS Development**. Currently, I am pursuing a **BS+MS** at Scaler School Of Technology and a **Bachelor of Science in Computer Science** at BITS Pilani. I thrive on learning and building innovative projects, and I'm constantly evolving in the ever-changing tech landscape.
+Sarthak Pandey.
 
 ---
 
@@ -48,14 +48,6 @@ I'm a passionate Computer Science student with a keen interest in **Web Developm
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
----
-
-### 🏆 Achievements
-
-- 🥇 **First Rank in District Level Speaking Competition**
-- 🧠 **Represented my school at the District Level Quiz Competition**
-
----
 
 ### 📈 GitHub Stats
 
