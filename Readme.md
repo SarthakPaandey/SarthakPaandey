@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in)
 
 # <div align="center">Hi there 👋, I'm Sarthak Pandey</div>
 
@@ -89,5 +89,5 @@ I'm a passionate Computer Science student with a keen interest in **Web Developm
 ### 🐍 Fun with Snake!
 
 <div align="center">
- <img width="1000" src="./github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
