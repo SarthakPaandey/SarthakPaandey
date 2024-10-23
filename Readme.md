@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in&quoteCategory=motivational)
 
 # <div align="center">Hi there 👋, I'm Sarthak Pandey</div>
 
