@@ -24,15 +24,6 @@
 
 Sarthak Pandey.
 
----
-
-### 💡 What I'm Working On
-
-- **[Alfred the Humanoid Robot](https://github.com/SarthakPaandey/Alfred)**: A humanoid robot designed to greet visitors at Scaler's Innovation Labs.
-- **[Skill Bytes Website](https://github.com/SarthakPaandey/Skill-Bytes)**: An interactive platform for teaching AI concepts to school students.
-
----
-
 ### 🚀 Tech Stack
 
 <div align="center">
